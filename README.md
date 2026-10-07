@@ -92,4 +92,4 @@ Data yang sudah ditambahkan akan tetap tersimpan di file sehingga dapat dibaca k
 
 <img width="505" height="318" alt="image" src="https://github.com/user-attachments/assets/99fe4b65-ec0d-4953-90ae-e79ee6bda851" />
 
-Program sistem manajemen inventaris barang berhasil dibuat menggunakan Python dan JSON. Program dapat membaca data, menambahkan data baru, menyimpan data secara permanen, serta berjalan terus menerus menggunakan while loop sampai pengguna memilih keluar.
+Program sistem manajemen inventaris barang berhasil dibuat menggunakan Python dan JSON. Program dapat membaca data, menambahkan data baru, menyimpan data secara permanen, serta berjalan terus menerus menggunakan while loop sampai user memilih keluar.
